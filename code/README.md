@@ -1,1 +1,1 @@
-
+Voici le code intégralement généré par Claude, mon objectif et centre d'intérêt n'étant pas le software, je n'ai pas perdu mon temps à écrire ce code à la main, d'autant qu'il contient des spécificités importantes. 
