@@ -14,8 +14,8 @@ Voilà à quoi ressemble le module :
 Plus en détail, le coeur au milieu, à gauche l'antenne Lollipop et à droite la caméra. Ce PCB à fonctionné du premier coup. Voici un petit exemple de ce dont il est capable (entre autres : réglage de a qualité vidéo, compression, luminosité, saturation, contraste, filtre, enregistrement sur la SD Card) : 
 <p align="center">
   <video width="600" autoplay loop muted playsinline>
-    <source src="../media/rec000.webp" type="image/webp">
-    Votre navigateur ne supporte pas la lecture de vidéos WebP.
+    <source src="../media/rec000.mp4" type="video/mp4">
+    Votre navigateur ne supporte pas la lecture de vidéos.
   </video>
 </p>
 
