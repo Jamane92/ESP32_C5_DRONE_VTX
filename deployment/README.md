@@ -4,9 +4,9 @@ Plus en détail,
 
 **Amélioration de la Portée (Sensibilité et Signal)**
 
-  	**Monitor (Écoute passive)** : En Wi-Fi standard (mode Access Point ou Station), si le signal devient trop faible, le protocole abandonne et la connexion réseau se coupe brutalement. Sous Linux, la clé Wi-Fi est basculée en mode monitor : elle écoute aveuglément la fréquence 5.8 GHz sans chercher à s'associer au routeur     de l'ESP32. Tant que des ondes arrivent, elle les capte, prolongeant la portée utile de plusieurs centaines de mètres.
+  **Monitor (Écoute passive)** : En Wi-Fi standard (mode Access Point ou Station), si le signal devient trop faible, le protocole abandonne et la connexion réseau se coupe brutalement. Sous Linux, la clé Wi-Fi est basculée en mode monitor : elle écoute aveuglément la fréquence 5.8 GHz sans chercher à s'associer au routeur     de l'ESP32. Tant que des ondes arrivent, elle les capte, prolongeant la portée utile de plusieurs centaines de mètres.
 
-  	**Dégradation fluide (Graceful Degradation)** : Au lieu d'avoir une image vidéo qui fige (freeze) d'un seul coup en limite de portée, le récepteur Linux accepte d'afficher des paquets incomplets ou corrompus. L'image va se pixeliser ou se déformer par blocs (un peu comme la neige en analogique), ce qui te laisse le temps 				de     réagir et de faire demi-tour avant le failsafe.
+  **Dégradation fluide (Graceful Degradation)** : Au lieu d'avoir une image vidéo qui fige (freeze) d'un seul coup en limite de portée, le récepteur Linux accepte d'afficher des paquets incomplets ou corrompus. L'image va se pixeliser ou se déformer par blocs (un peu comme la neige en analogique), ce qui te laisse le temps 				de réagir et de faire demi-tour avant le failsafe.
 
   **Connectique pour antennes à haut gain** : Une clé Wi-Fi USB compatible (ex: chipsets Atheros ou Realtek) permet de visser des antennes directionnelles (Patch ou Hélicoïdale) qui, combinées à l'antenne Lollipop RHCP de ton drone, concentrent la réception sur une zone précise pour aller chercher le signal beaucoup plus loin.
 
