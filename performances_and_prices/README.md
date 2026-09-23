@@ -71,6 +71,7 @@ Si l'on croise le prix du système complet avec la portée théorique estimée, 
 | Marché Analogique | \~ 1000 m | \~ 100 € | 10.0 m / € | 
 | **Projet (Base)** | **\~ 230 m** | **30 €** | **7.6 m / €** | 
 | Marché DJI O3 | \~ 4000 m | \~ 800 € | 5.0 m / € | 
+| **Projet (Upgrade)** | **\~ 2000 m** | **75 €** | **26.7 m / €** | 
 
 **Conclusion Générale :**
 En investissant 20€ supplémentaires dans un système "VRX Antenne avec RTL8812Au" pour la réception, le système devient le plus compétitif du marché en termes de rapport portée/prix. Il surpasse les solutions analogiques d'entrée de gamme, tout en offrant une transmission 100% numérique à un coût total (54€) infiniment plus bas que les géants du secteur.
