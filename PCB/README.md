@@ -1,6 +1,6 @@
 Ce PCB contient 4 couches, étant embarqué sur un drone, il possède des entrées d'alimentations +5V, que sont l'USB-C, également utilisé pour programmer l'ESP32, ainsi que des PADs de cuivre, qui viendront directement être branché à partir de mon flight controler. Il possède deux diodes Schottky pour faire du OR'ing. Une OV5640, un lecteur dde carte SD, ainsi qu'un module 1U spécialement choisi pour la possibilité d'y brancher une antenne, qui est une Lollipop en RHCP, mieux qu'une antenne "simple", car celle-ci émettra un signal en forme de cercle, parfaitement adapté pour une antenne en hauteur qui va communiquer avec le sol.
 
-Je suis parti sur un 4 couches pour me simplifier la vie. Mon stacku-up est le suivant : 
+Je suis parti sur un 4 couches pour me simplifier la vie. Mon stack-up est le suivant : 
 
   - L1 : SIGNAL
   - L2 : GND
