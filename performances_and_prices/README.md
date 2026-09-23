@@ -42,7 +42,7 @@ Remplacer le téléphone par la carte réseau avec puce RTL8812Au (et ses antenn
   <img src="../media/ComparaisonPerf.jpg" alt="Évolution des Performances (Portée Théorique estimée)" width="800"/>
 </div>
 
-La portée est donc certe divisée par 2, mais le prix l'est par 10, et surtout, qui a besoin de 4km de portée ? Pas moi en tout cas, et ca tomb bien, j'ai fait le projet pour moi :)
+La portée est donc certe divisée par 2, mais le prix l'est par 10, et surtout, qui a besoin de 4km de portée ? Pas moi en tout cas, et ca tomb bien, j'ai fait le projet pour moi :) Même si l'on divise par 3 en moyenne pour avoir la portée réelle, ca reste très largement suffisant pour mon application, et de manière générale, dans la majorité des applications aussi.
 
 ## 3. Piste d'Amélioration Future : Amplification du Signal (TX)
 
