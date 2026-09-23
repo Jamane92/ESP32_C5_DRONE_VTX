@@ -39,7 +39,7 @@ Le véritable goulot d'étranglement de la version de base n'est pas le drone (V
 Remplacer le téléphone par la carte réseau avec puce RTL8812Au (et ses antennes externes 5 dBi) ajoute environ 12 dB au budget de liaison. En radiofréquence, un gain de 12 dB équivaut à **multiplier la portée par 4**. On gagne ainsi près de 690m de portée théorique sans rien modifier sur le drone.
 
 <div align="center">
-  <img src="media/ComparaisonPerf.jpg" alt="Évolution des Performances (Portée Théorique estimée)" width="800"/>
+  <img src="../media/ComparaisonPerf.jpg" alt="Évolution des Performances (Portée Théorique estimée)" width="800"/>
 </div>
 
 ## 3. Piste d'Amélioration Future : Amplification du Signal (TX)
@@ -55,7 +55,7 @@ Pour pénétrer des environnements denses (bâtiments, forêts), l'amélioration
 La grande force de ce système est son coût global. Contrairement aux systèmes FPV du commerce où il faut acheter à la fois l'émetteur (Air Unit) ET le récepteur (Lunettes ou module), ici, le VRX est soit gratuit (téléphone), soit très abordable (Clé Wi-Fi Linux).
 
 <div align="center">
-  <img src="media/Comparaison_des_prix.png" alt="Évolution et Comparaison des Prix Globaux (VTX + VRX)" width="800"/>
+  <img src="../media/Comparaison des prix.png" alt="Évolution et Comparaison des Prix Globaux (VTX + VRX)" width="800"/>
 </div>
 
 ### Le Ratio Ultime : Portée Théorique gagnée par Euro investi
