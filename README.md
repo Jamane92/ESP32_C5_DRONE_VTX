@@ -16,3 +16,6 @@ Plus en détail, le coeur au milieu, à gauche l'antenne Lollipop et à droite l
   <img width="393" src="media/vtx.mp4" alt="Mini démo" />
 </p>
 
+Pour la démo en vol, il faudra attendre que le projet du flight controler (https://github.com/Jamane92/Flight_Controler_STM32F405RGT6) soit terminé. 
+
+Pour voir les performances du montage, voir la section dédié.
