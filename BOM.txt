@@ -1,1 +1,4 @@
+1x OV5640 
+1x 16 Gb SD Card 
+1x lollipop antenna RHCP
 
