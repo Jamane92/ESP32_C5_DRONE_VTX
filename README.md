@@ -11,11 +11,15 @@ Voilà à quoi ressemble le module :
 <img width="1309" height="378" alt="vtx" src="https://github.com/user-attachments/assets/fcd6ed43-ef09-44da-ad7d-6fa0e562a62f" />
 </p>
 
-Plus en détail, le coeur au milieu, à gauche l'antenne Lollipop et à droite la caméra. Ce PCB à fonctionné du premier coup. Voici un petit exemple de ce dont il est capable (entre autres : réglage de a qualité vidéo, compression, luminosité, saturation, contraste, filtre, enregistrement sur la SD Card) : 
+Plus en détail, le coeur au milieu, à gauche l'antenne Lollipop et à droite la caméra. Ce PCB à fonctionné du premier coup. Voici un petit exemple de ce dont il est capable (entre autres : réglage de a qualité vidéo, compression, luminosité, saturation, contraste, filtre, enregistrement sur la SD Card) :
+
+Voici une vidéo de mon balcon, au 3ème étage : 
+
+Voici une vidéo de moi en HVGA (480 × 320), gardez à l'esprit que l'on filmera en SVGA (800 × 600), soit littéralement 3 fois plus de pixels. 
 <p align="center">
-  <img width="393" src="media/rec000.webp" alt="Démonstration du robot" />
+  <img width="393" src="media/rec000.webp" alt="demo cam" />
 </p>
 
 Pour la démo en vol, il faudra attendre que le projet du flight controler (https://github.com/Jamane92/Flight_Controler_STM32F405RGT6) soit terminé. 
 
-Pour voir les performances du montage, voir la section dédié.
+Pour voir les performances du montage, voir le folder dedié.
