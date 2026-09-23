@@ -15,7 +15,7 @@ L'impédance de la ligne de communication différentiel D+/D- est matché à 90�
 
 Voici la schématique : 
 <p align="center">
-<img width="393" src="../media/schematiqueVTX.png" alt="Schématique" />
+<img width="700" src="../media/schematiqueVTX.png" alt="Schématique" />
 </p>
 
 Voici le routage : 
