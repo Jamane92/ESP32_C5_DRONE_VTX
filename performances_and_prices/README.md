@@ -42,6 +42,8 @@ Remplacer le téléphone par la carte réseau avec puce RTL8812Au (et ses antenn
   <img src="../media/ComparaisonPerf.jpg" alt="Évolution des Performances (Portée Théorique estimée)" width="800"/>
 </div>
 
+La portée est donc certe divisée par 2, mais le prix l'est par 10, et surtout, qui a besoin de 4km de portée ? Pas moi en tout cas, et ca tomb bien, j'ai fait le projet pour moi :)
+
 ## 3. Piste d'Amélioration Future : Amplification du Signal (TX)
 
 Pour pénétrer des environnements denses (bâtiments, forêts), l'amélioration envisagée est matérielle : ajouter un **amplificateur de signal (LNA/PA)** entre l'ESP32 et l'antenne Lollipop.
