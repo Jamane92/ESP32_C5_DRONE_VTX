@@ -64,10 +64,10 @@ Si l'on croise le prix du système complet avec la portée théorique estimée, 
 
 | Système | Portée Théorique | Prix Total (VTX+VRX) | Ratio (Mètres par Euro) | 
 | :--- | :--- | :--- | :--- | 
-| **Ton Projet (Cible avec RTL8812Au)** | **\~ 920 m** | **54 €** | **17.0 m / €** 🏆 | 
+| **Projet (Cible avec RTL8812Au)** | **\~ 920 m** | **54 €** | **17.0 m / €** 🏆 | 
 | Marché Walksnail | \~ 4000 m | \~ 380 € | 10.5 m / € | 
 | Marché Analogique | \~ 1000 m | \~ 100 € | 10.0 m / € | 
-| **Ton Projet (Base)** | **\~ 230 m** | **30 €** | **7.6 m / €** | 
+| **Projet (Base)** | **\~ 230 m** | **30 €** | **7.6 m / €** | 
 | Marché DJI O3 | \~ 4000 m | \~ 800 € | 5.0 m / € | 
 
 **Conclusion Générale :**
