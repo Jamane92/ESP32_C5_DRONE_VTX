@@ -18,7 +18,9 @@ Plus en détail,
 
 Voici la clé utilisé, achetée à 19.99€ sur Aliexpress : 
 <p align="center">
-<img width="1000" src="../media/cle.png" alt="Schématique" />
+<img width="500" src="../media/cle.png" alt="Schématique" />
 </p>
+
+On va ensuite dans Kali Linux, le script sera dispo dans cette partie du repo.
 
 
