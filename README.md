@@ -11,7 +11,11 @@ Voilà à quoi ressemble le module :
 <img width="1309" height="378" alt="vtx" src="https://github.com/user-attachments/assets/fcd6ed43-ef09-44da-ad7d-6fa0e562a62f" />
 </p>
 
-Plus en détail, le coeur au milieu, à gauche l'antenne Lollipop et à droite la caméra. Ce PCB à fonctionné du premier coup. Voici un petit exemple de ce dont il est capable (entre autres : réglage de a qualité vidéo, compression, luminosité, saturation, contraste, filtre, enregistrement sur la SD Card) :
+Plus en détail, le coeur au milieu, à gauche l'antenne Lollipop et à droite la caméra. Ce PCB à fonctionné du premier coup. Voici à quoi ressemble l'interface WEB : 
+<img width="945" height="2048" alt="web" src="https://github.com/user-attachments/assets/9e1a8291-6ef5-4d95-aa73-db7a7a402815" />
+
+
+Voici un petit exemple de ce dont il est capable (entre autres : réglage de a qualité vidéo, compression, luminosité, saturation, contraste, filtre, enregistrement sur la SD Card) :
 
 Voici une vidéo de mon balcon, au 3ème étage, avec l'exploration de tous les settings de la caméra : 
 
