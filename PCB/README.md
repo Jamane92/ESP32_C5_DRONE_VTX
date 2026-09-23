@@ -25,4 +25,6 @@ Voici le routage :
 <img width="515" height="608" alt="image" src="https://github.com/user-attachments/assets/581aae10-fa91-4471-b215-c39759df41f7" />
 </p>
 
+<img width="689" height="479" alt="image" src="https://github.com/user-attachments/assets/4e9af782-5245-49f4-89a7-a0bc5ecdddfb" />
+
 
