@@ -30,7 +30,7 @@ Voici le routage :
 
 Voici la 3D : 
 
-<img width="689" height="479" alt="3D" src="https://github.com/user-attachments/assets/4e84c035-eb32-4986-b170-5ce6acbf6490" />
+
 
 <img width="689" height="479" alt="3D" src="https://github.com/user-attachments/assets/9c5c6230-8978-445d-82f3-25d99c6dc503" />
 
