@@ -2,6 +2,10 @@
 
 Ce document détaille les performances du système de transmission 100% numérique basé sur un ESP32-C5 (TX), ses différentes configurations de réception (RX), et l'analyse de son positionnement face au marché du FPV.
 
+## 0. Consommation du Système : 
+
+Le système consomme +5V et 0.3A, soit 1,5W. 
+
 ## 1. Architecture du Système : Émission (VTX)
 
 Le système est **numérique**, reposant sur les protocoles Wi-Fi (802.11). Il force l'utilisation du **5 GHz sur le canal 36** (5170-5250 MHz), une bande explicitement autorisée par l'ARCEP pour les drones avec une limite de 200 mW EIRP (Equivalent Isotropic Radiated Power).
