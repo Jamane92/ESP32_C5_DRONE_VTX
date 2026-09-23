@@ -1,6 +1,6 @@
 # 📡 Analyse de Performance du Système Wi-Fi FPV / Télémétrie
 
-Ce document détaille les performances du système de transmission 100% numérique basé sur un ESP32-C5 (TX), ses différentes configurations de réception (RX), et l'analyse de son positionnement face au marché du FPV.
+Dans cette section, on va parler des performances ainsi que du coùut de la solution. Bien que ce projet à été pensé à but pédagogique, il est quand même intéréssant de regarder l'efficacité de la solution par rapport au marché. Ce document détaille les performances du système de transmission 100% numérique basé sur un ESP32-C5 (TX), ses différentes configurations de réception (RX), et l'analyse de son positionnement face au marché du FPV.
 
 ## 1. Architecture du Système : Émission (VTX)
 
