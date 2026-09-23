@@ -4,7 +4,7 @@ Ce document détaille les performances du système de transmission 100% numériq
 
 ## 0. Consommation du Système : 
 
-Le système consomme +5V et 0.3A, soit 1,5W. 
+Le système consomme +5V et 0.3A, soit 1,5W. Pour ce qui est de la vidéo (qualité/latence/FPS) : 
 
 ## 1. Architecture du Système : Émission (VTX)
 
