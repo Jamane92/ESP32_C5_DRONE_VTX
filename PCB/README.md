@@ -20,15 +20,15 @@ Voici la schématique :
 
 Voici le routage : 
 <p align="center">
-<img width="1000" src="../media/top.png" alt="top" />
+<img width="900" src="../media/top.png" alt="top" />
 </p>
 <p align="center">
-<img width="1000" src="../media/bot.png" alt="bot" />
+<img width="900" src="../media/bot.png" alt="bot" />
 </p>
 
 Voici la 3D : 
 <p align="center">
-<img width="1000" src="../media/3D.png" alt="3D" />
+<img width="900" src="../media/3D.png" alt="3D" />
 </p>
 
 
