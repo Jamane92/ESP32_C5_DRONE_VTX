@@ -13,7 +13,7 @@ Afin d'optimiser l'intégrité des signaux, de nombreux vias de masse (ground vi
 
 L'impédance de la ligne de communication différentiel D+/D- est matché à 90Ω
 
-Voici la schématique : <img width="912" height="624" alt="schematiqueVTX" src="media/schematiqueVTX.png" />
+Voici la schématique :![Schématique du VTX](./media/schematiqueVTX.png)
 
 
 Voici le routage : <img width="515" height="608" alt="image" src="https://github.com/user-attachments/assets/ca0845d0-332b-43bc-854f-9357ad4fbfb7" />
