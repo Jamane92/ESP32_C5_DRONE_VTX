@@ -11,7 +11,7 @@ Tous les composants sont sur la même face pour des raisons économiques (plus c
 
 Afin d'optimiser l'intégrité des signaux, de nombreux vias de masse (ground vias) ont été placés pour relier (stitching) les plans de masse entre les couches L2 et L3. Ce stitching de masse assure un chemin de retour court, direct et ininterrompu pour les signaux numériques à haute vitesse (bus de la caméra OV5640, interface de la carte SD) ainsi que pour la section RF à 5.8 GHz. Cela permet de minimiser l'inductance des boucles de courant et de réduire drastiquement les interférences électromagnétiques (EMI), un point absolument critique dans l'environnement très bruyant d'un drone (ESC, moteurs). 
 
-L'impédance de la ligne de communication différentiel D+/D- est matché à 90Ω
+L'impédance de la ligne de communication différentiel D+/D- est **matché à 90Ω**
 
 Voici la schématique : 
 <p align="center">
