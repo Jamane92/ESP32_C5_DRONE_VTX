@@ -30,6 +30,9 @@ Voici le routage :
 
 Voici la 3D : 
 
+<img width="845" height="545" alt="Screenshot 2026-09-22 120443" src="https://github.com/user-attachments/assets/9d101433-d819-4b16-a3f8-6abdfbcedf86" />
+
+
 
 
 <img width="689" height="479" alt="3D" src="https://github.com/user-attachments/assets/9c5c6230-8978-445d-82f3-25d99c6dc503" />
