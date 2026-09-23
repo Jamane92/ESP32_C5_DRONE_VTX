@@ -13,10 +13,7 @@ Voilà à quoi ressemble le module :
 
 Plus en détail, le coeur au milieu, à gauche l'antenne Lollipop et à droite la caméra. Ce PCB à fonctionné du premier coup. Voici un petit exemple de ce dont il est capable (entre autres : réglage de a qualité vidéo, compression, luminosité, saturation, contraste, filtre, enregistrement sur la SD Card) : 
 <p align="center">
-  <video width="600" autoplay loop muted playsinline>
-    <source src="../media/rec000.mp4" type="video/mp4">
-    Votre navigateur ne supporte pas la lecture de vidéos.
-  </video>
+  <img width="600" src="../media/rec000.gif" alt="Démo vidéo VTX" />
 </p>
 
 Pour la démo en vol, il faudra attendre que le projet du flight controler (https://github.com/Jamane92/Flight_Controler_STM32F405RGT6) soit terminé. 
