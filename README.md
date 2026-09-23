@@ -12,7 +12,7 @@ Voilà à quoi ressemble le module :
 </p>
 
 Plus en détail, le coeur au milieu, à gauche l'antenne Lollipop et à droite la caméra. Ce PCB à fonctionné du premier coup. Voici à quoi ressemble l'interface WEB : 
-<img width="945" height="2048" alt="web" src="https://github.com/user-attachments/assets/9e1a8291-6ef5-4d95-aa73-db7a7a402815" />
+<img width="945/2" height="2048/2" alt="web" src="https://github.com/user-attachments/assets/9e1a8291-6ef5-4d95-aa73-db7a7a402815" />
 
 
 Voici un petit exemple de ce dont il est capable (entre autres : réglage de a qualité vidéo, compression, luminosité, saturation, contraste, filtre, enregistrement sur la SD Card) :
