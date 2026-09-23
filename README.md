@@ -15,6 +15,6 @@ Voilà à quoi ressemble le module :
 
 Plus en détail, le coeur au milieu, à gauche l'antenne Lollipop et à droite la caméra. Ce PCB à fonctionné du premier coup. Voici un petit exemple de ce dont il est capable (entre autres : réglage de a qualité vidéo, compression, luminosité, saturation, contraste, filtre, enregistrement sur la SD Card) : 
 <p align="center">
-  <img width="393" src="media/vtx.webp" alt="Mini démo" />
+  <img width="393" src="media/vtx.mp4" alt="Mini démo" />
 </p>
 
