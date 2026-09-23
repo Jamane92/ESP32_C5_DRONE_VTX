@@ -13,7 +13,7 @@ Voilà à quoi ressemble le module :
 
 Plus en détail, le coeur au milieu, à gauche l'antenne Lollipop et à droite la caméra. Ce PCB à fonctionné du premier coup. Voici un petit exemple de ce dont il est capable (entre autres : réglage de a qualité vidéo, compression, luminosité, saturation, contraste, filtre, enregistrement sur la SD Card) :
 
-Voici une vidéo de mon balcon, au 3ème étage : 
+Voici une vidéo de mon balcon, au 3ème étage, avec l'exploration de tous les settings de la caméra : 
 
 Voici une vidéo de moi en HVGA (480 × 320), gardez à l'esprit que l'on filmera en SVGA (800 × 600), soit littéralement 3 fois plus de pixels. 
 <p align="center">
